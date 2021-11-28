@@ -414,9 +414,8 @@
 /obj/item/clothing/suit/hooded/cloak/shunter
 	name = "Quickclaw armour"
 	icon_state = "birdarmor"
-	desc = "(V) A suit of armour fashioned out of the remains of a legendary deathclaw, this one has been crafted to remove a good portion of its protection to improve on speed and trekking."
-	slowdown = -0.20
-	armor = list("tier" = 5, "energy" = 10, "bomb" = 30, "bio" = 20, "rad" = 20, "fire" = 30, "acid" = 0)
+	desc = "(VI) A suit of armour fashioned out of the remains of a legendary deathclaw, this one has been crafted to remove a good portion of its protection to improve on speed and trekking."
+	armor = list("tier" = 6, "energy" = 10, "bomb" = 30, "bio" = 20, "rad" = 20, "fire" = 30, "acid" = 0)
 	hoodtype = /obj/item/clothing/head/hooded/cloakhood/shunter
 	heat_protection = CHEST|GROIN|LEGS|ARMS|HANDS
 	body_parts_covered = CHEST|GROIN|LEGS|ARMS|HANDS
@@ -426,6 +425,6 @@
 	name = "Quickclaw hood"
 	icon_state = "birdhood"
 	desc = "(VI) A hood madde of deathclaw hides, light while also being comfortable to wear, designed for speed."
-	armor = list("tier" = 5, "energy" = 10, "bomb" = 25, "bio" = 20, "rad" = 20, "fire" = 30, "acid" = 0)
+	armor = list("tier" = 6, "energy" = 10, "bomb" = 25, "bio" = 20, "rad" = 20, "fire" = 30, "acid" = 0)
 	heat_protection = HEAD
 	resistance_flags = FIRE_PROOF | ACID_PROOF
